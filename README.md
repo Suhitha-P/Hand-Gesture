@@ -1,6 +1,7 @@
 # Hand Gesture Recognition using AlexNet and ResNet
 
-![Hand_Gestures](https://github.com/Suhitha-P/Hand-Gesture/assets/101633121/32ad3426-b5b1-46f8-9fc2-7c91192716f0)
+
+![Hand_Gestures](https://github.com/Suhitha-P/Hand-Gesture/assets/101633121/84500f75-5bc4-4ab8-a46c-d1055af5b27e)
 
 
 
@@ -58,20 +59,11 @@ dataset/
 
 1. Place your dataset in the `dataset` folder following the structure mentioned above.
 
-2. Use the provided scripts to train and evaluate the models:
+2. Use the provided Google Colab notebook files to train and evaluate the models:
 
-   - `alexnet.py`: Train and test of AlexNet model.
-   - `resnet.py`: Train and test of ResNet model.
+   - `alexnet.ipynb`: Train and test the AlexNet model.
+   - `resnet.ipynb`: Train and test the ResNet model.
 
-## Training
+3. In Google Colab, run the notebook cells sequentially to train and evaluate the models.
 
-Run the training scripts using:
-
-```bash
-python alexnet.py
-```
-
-```bash
-python resnet.py
-```
-
+Note: Make sure to adjust any file paths or dependencies if necessary to match your Google Colab environment.
