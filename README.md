@@ -1,6 +1,6 @@
 # Hand Gesture Recognition using AlexNet and ResNet
 
-![Hand Gesture Recognition][image](https://github.com/Suhitha-P/Hand-Gesture/assets/101633121/b4dee045-2891-4d51-a077-9236df938790)
+![Hand_Gestures](https://github.com/Suhitha-P/Hand-Gesture/assets/101633121/e8b8887a-ff65-4fe6-9b24-32985949aed3)
 
 
 This repository contains an implementation of hand gesture recognition using two popular deep learning architectures: AlexNet and ResNet. Hand gesture recognition is the process of identifying and classifying hand gestures made by a user, which can be utilized in various applications like sign language translation, human-computer interaction, and more.
