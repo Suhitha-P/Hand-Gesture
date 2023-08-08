@@ -1,5 +1,6 @@
 # Hand Gesture Recognition using AlexNet and ResNet
 
+![Hand_Gestures](https://github.com/Suhitha-P/Hand-Gesture/assets/101633121/79f74778-157b-411b-8dc7-a850689b8234)
 
 ![Hand_Gestures](https://github.com/Suhitha-P/Hand-Gesture/assets/101633121/84500f75-5bc4-4ab8-a46c-d1055af5b27e)
 
